@@ -1,0 +1,14 @@
+{
+  "name": "time-short-string",
+  "version": "1.0.0",
+  "description": "Convert a number of seconds to a short relative string",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.test.js"
+  },
+  "author": "Logan Esenther <logan@cal.berkeley.edu>",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^9.1.0"
+  }
+}
